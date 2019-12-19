@@ -1,0 +1,63 @@
+{
+    "name": "Stremor Liquid Helium",
+    "description": "Kong is the world's most popular open source microservice API gateway. Use Kong to secure, manage and orchestrate microservice APIs.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1749-stremor-liquid-helium.jpg",
+    "tags": [
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/stremor-liquid-helium\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Stremor Liquid Helium",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1749-stremor-liquid-helium.jpg",
+            "humanURL": "https:\/\/www.mashape.com\/stremor",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/stremor-liquid-helium-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/kong-42b1"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/liquid-environmental-solutions"
+        },
+        {
+            "type": "Email",
+            "url": "bizdev@konghq.com"
+        },
+        {
+            "type": "Email",
+            "url": "press@konghq.com"
+        },
+        {
+            "type": "Email",
+            "url": "support@konghq.com"
+        },
+        {
+            "type": "Email",
+            "url": "privacy@konghq.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/thekonginc"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/www.mashape.com\/stremor"
+        }
+    ]
+}
